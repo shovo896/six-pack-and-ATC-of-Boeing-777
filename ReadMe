@@ -105,6 +105,7 @@ test_airspeed()
 * Real-time data via sockets or Web APIs
 * Emergency ATC scenarios
 * Logging system for training reviews
+* add alert system 
 
 
 
